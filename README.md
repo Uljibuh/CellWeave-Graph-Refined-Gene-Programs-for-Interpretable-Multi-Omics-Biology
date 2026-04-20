@@ -84,3 +84,13 @@ refined gene importance within pathways
 identification of submodules inside canonical pathways
 detection of disease-specific regulatory rewiring
 cross-modality consistency between RNA and ATAC
+
+
+⚖️ Positioning
+This is:
+not a purely predictive model
+not a causal inference system
+not a simulation framework
+
+It is:
+a mechanism-inspired representation learning framework for interpreting gene programs in multi-omics data
