@@ -3,7 +3,7 @@
 
 🧠 Core Idea
 
-CellWeave is a framework for interpreting disease mechanisms from paired single-cell RNA and ATAC data by combining interpretable gene programs with structured gene interaction networks. It first learns gene programs using Non-negative Matrix Factorization, where each program represents a coordinated biological function shared across cells. Then, instead of treating these programs as flat gene lists, ReguNMF introduces a gene interaction graph within each program and uses a Graph Neural Network to refine gene-level contributions based on regulatory relationships such as transcription factor binding, chromatin accessibility, and gene co-regulation. This produces context-aware gene program representations that better reflect how biological systems operate in normal and disease conditions.
+CellWeave is a framework for interpreting disease mechanisms from paired single-cell RNA and ATAC data by combining interpretable gene programs with structured gene interaction networks. It first learns gene programs using Non-negative Matrix Factorization, where each program represents a coordinated biological function shared across cells. Then, instead of treating these programs as flat gene lists, CellWeave introduces a gene interaction graph within each program and uses a Graph Neural Network to refine gene-level contributions based on regulatory relationships such as transcription factor binding, chromatin accessibility, and gene co-regulation. This produces context-aware gene program representations that better reflect how biological systems operate in normal and disease conditions.
 
 🧩 Biological Motivation
 
